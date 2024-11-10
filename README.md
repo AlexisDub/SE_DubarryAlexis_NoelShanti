@@ -13,8 +13,8 @@ Une grille qui arrive à être résolu avec <= DR3 (sans intervention de l'utili
 
 --------------------------------------
 Utilisation :
-
-
+1) javac *.java
+2) java Main grillesudoku.txt (ex : java Main grilleDR1.txt )
 --------------------------------------
 GRILLES EXEMPLES : 
 des grilles d'exemples de sudoku sont fournies.
